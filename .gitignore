@@ -1,1 +1,10 @@
 /fs-war/web/images/filetypes/
+/fs-ejb/nbproject/private/
+/fs-war/nbproject/private/
+/nbproject/private/
+/fs-ejb/build/
+/fs-ejb/dist/
+/fs-war/build/
+/dist/
+/build/
+/fs-war/dist/
